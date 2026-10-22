@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StepRange</string>
+    <string name="app_subtitle">Generate values using a custom increment.</string>
+</resources>
